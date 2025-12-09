@@ -3,7 +3,7 @@ var app = express();
 
 // Root route
 app.get('/', function (req, res) {
-    res.send('changed not');
+    res.send('i have figure it out');
 });
 
 // Server listener
