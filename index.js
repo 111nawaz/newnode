@@ -3,7 +3,7 @@ var app = express();
 
 // Root route
 app.get('/', function (req, res) {
-    res.send('my docker build done');
+    res.send('my docker build done and now iam free');
 });
 
 // Server listener
